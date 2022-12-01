@@ -27,8 +27,21 @@
 
     list-style: none;
     padding-left: 0;
+
+    text-align: center;
 }
 
 .nav>li {
     border-style:outset ;
+    display: inline-block;
 }
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.homepic {
+    display: inline-block;
+}
+
